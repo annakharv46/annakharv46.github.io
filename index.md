@@ -8,9 +8,9 @@ Hello! My name is Anna Harvey and I am a Financial Engineering Major at Lehigh U
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](/Report/Report.md/)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+Sentence summarizing midterm
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
