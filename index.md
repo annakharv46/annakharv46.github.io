@@ -12,7 +12,7 @@ _**[10-Ks' Sentiment Score and How They Relate to Stock Fluctuation](/Report/Rep
 
 Sentence summarizing midterm
 
-<img src="images/?raw=true"/>
+<img src="/Report/output_20_0.png?raw=true"/>
 
 ---
 
