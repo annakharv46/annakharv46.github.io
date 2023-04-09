@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Anna Harvey and I am a Financial Engineering Major at Lehigh University in the [IBE Honors Program](https://ibe.lehigh.edu/about). 
+Hello! My name is Anna Harvey and I am a Financial Engineering Major (Fintech Minor) at Lehigh University in the [IBE Honors Program](https://ibe.lehigh.edu/about). I played four years of D1 basketball and one year of D1 Tennis. Excited to be joining EY full-time in NYC on the FSO-Tech Consulting- Technology Solution Delivery Team. 
 
 ---
 
@@ -21,37 +21,33 @@ sentiment scores. Click on the link above to see the detailed report to learn mo
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/output_20_0.png?raw=true"/>
+_**[Regression Practice](/Regressions.ipynb)**_
 
 ---
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
+N/A
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
-
+N/A
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Improving systems and innovating new ways to solve problems is the forefront of what I want to accomplish 
+in my future. Being at EY is a great step towards this, and I hope to eventually make an impact. 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Playing sports in college was a blast, and I will continue to play team sports in NYC. I love being with 
+family and friends, and I enjoy reading and painting. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
