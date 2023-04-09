@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Anna Harvey and I am a Financial Engineering Major at Lehigh University in the [IBE Honors Program] (https://ibe.lehigh.edu/about). 
+Hello! My name is Anna Harvey and I am a Financial Engineering Major at Lehigh University in the [IBE Honors Program](https://ibe.lehigh.edu/about). 
 
 ---
 
@@ -10,7 +10,12 @@ Hello! My name is Anna Harvey and I am a Financial Engineering Major at Lehigh U
 
 _**[10-Ks' Sentiment Score and How They Relate to Stock Fluctuation](/Report/Report.md/)**_
 
-Sentence summarizing midterm
+Are stocks from the S&P 500 dependent on 10k sentiment? Do certain categorical words have more impact?
+In this study, we dive into the possibility that sentiment scores of 10k's can directly cause stocks
+to increase or decrease relative to the time of when the 10k came out. Our dataset includes the S&P 500. 
+Below is a heatmap that summarizes the corrleation between the stock changes (immediate stock change 
+and long-term stock change) and the sentiment scores created from different theories and categories of 
+sentiment scores. Click on the link above to see the detailed report to learn more. 
 
 <img src="/Report/output_20_0.png?raw=true"/>
 
