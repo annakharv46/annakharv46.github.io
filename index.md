@@ -23,17 +23,14 @@ sentiment scores. Click on the link above to see the detailed report to learn mo
 
 _**[Regression Practice](/Regressions.ipynb)**_
 
----
-
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-N/A
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+Coming Soon
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-N/A
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+_**[Analyzing Bank of the West Lending Practice Presentation](/FinTech Capstone Presentation.pdf)**_
+_**[Analyzing Bank of the West Lending Practice Paper](/BMO FinTech Capstone Report.pdf)**_
+Historically, redlining prevented residents of specific areas from accessing credit due to race or ethnicity. Today, government regulations prevent financial institutions from making lending decisions based on an applicant's demographic attributes. As the Bank of Montreal (BMO), the sponsor financial institution of the Spring 2023 Lehigh Fintech Capstone class,  completed its acquisition of Bank of the West in February 2023, this paper conducts a comprehensive examination of the lending behaviors of Bank of the West and reports our findings to personnel at the Bank of Montreal.
+Specifically, this paper analyzes the lending behaviors of Bank of the West (BOW) in Arizona and California using the Home Mortgage Disclosure Act (HMDA) loan-level data and Census tract demographic information for 2021. The analysis aims to help BMO Harris (which recently acquired Bank of the West) understand if BOW's lending falls short of BMO Harris's goal to serve underserved communities and steps BMO Harris can take to address any shortcomings. The analysis uses maps, regression models, and an experiment with OpenAI's ChatGPT API to assess the impact of demographic information on loan decisions. 
 
 ---
 
