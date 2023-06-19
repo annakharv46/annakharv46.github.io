@@ -38,6 +38,14 @@ Historically, redlining prevented residents of specific areas from accessing cre
 Specifically, this paper analyzes the lending behaviors of Bank of the West (BOW) in Arizona and California using the Home Mortgage Disclosure Act (HMDA) loan-level data and Census tract demographic information for 2021. The analysis aims to help BMO Harris (which recently acquired Bank of the West) understand if BOW's lending falls short of BMO Harris's goal to serve underserved communities and steps BMO Harris can take to address any shortcomings. The analysis uses maps, regression models, and an experiment with OpenAI's ChatGPT API to assess the impact of demographic information on loan decisions. 
 
 ---
+## IBE Entrepreneurship Capstone
+_**[MagFO](/pdf/Beerliminator.pdf)**_
+
+Our team worked with representatives from MagFO to find a market for their Magnesium Forward Osmosis System. Our research directed us to the dealcholization of beer. This is a rapidly growing market and the process of the MagFO system would be most beneficial to all the brewers who are attempting to create a new product for non-alcholic drinkers. 
+
+_**[
+
+---
 
 ## Career Objectives
 
