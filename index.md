@@ -1,10 +1,10 @@
 ## About Me
 
-Hello! My name is Anna Harvey and I am a Financial Engineering Major (Fintech Minor) at Lehigh University in the [IBE Honors Program](https://ibe.lehigh.edu/about). I played four years of D1 basketball and one year of D1 Tennis. Excited to be joining EY full-time in NYC on the FSO-Tech Consulting- Technology Solution Delivery Team. 
+Hello! My name is Anna Harvey and I am a Financial Engineering Major (Fintech Minor) at Lehigh University in the [IBE Honors Program](https://ibe.lehigh.edu/about). I played four years of D1 basketball and one year of D1 Tennis. I am very excited to be joining EY full-time in NYC on the FSO - Tech Consulting - Technology Solutions Delivery Team. This page contains all the team projects and findings during my time at Lehigh University. Go Mountain Hawks!
 
 ---
 
-## Portfolio
+## Fintech Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
@@ -23,9 +23,9 @@ sentiment scores. Click on the link above to see the detailed report to learn mo
 
 _**[Regression Practice](/Regressions.ipynb)**_
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[There Is Such A Thing As Free Lunch](https://github.com/tobeybill/TISATAFL)**_
 
-Coming Soon
+This team project analyzes the relationship between firm performance and CEO/Board of Director Compensation. Our analysis includes companies from the S&P 500 separated into size categories based on market value. For each firm, we ran a Ridge regression to predict firm CEO/BOD over/under compensation percentages. After achieving this metric, we calculated a measure of firm performance using the coefficients of a linear regression as weights for each relevant variable. Once both over/under compensation and firm performance had been calculated for the firms in question, the two were correlated, plotted on a scatterplot, and then average firm performance was listed in comparison with the four cases of over/undercompensation.
 
 Senior FinTech Capstone
 ---
