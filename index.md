@@ -23,6 +23,8 @@ sentiment scores. Click on the link above to see the detailed report to learn mo
 
 _**[Regression Practice](/Regressions.ipynb)**_
 
+## FIN 377 Final Project
+
 _**[There Is Such A Thing As Free Lunch](https://github.com/tobeybill/TISATAFL)**_
 
 This team project analyzes the relationship between firm performance and CEO/Board of Director Compensation. Our analysis includes companies from the S&P 500 separated into size categories based on market value. For each firm, we ran a Ridge regression to predict firm CEO/BOD over/under compensation percentages. After achieving this metric, we calculated a measure of firm performance using the coefficients of a linear regression as weights for each relevant variable. Once both over/under compensation and firm performance had been calculated for the firms in question, the two were correlated, plotted on a scatterplot, and then average firm performance was listed in comparison with the four cases of over/undercompensation.
@@ -39,18 +41,19 @@ Specifically, this paper analyzes the lending behaviors of Bank of the West (BOW
 
 ---
 ## IBE Entrepreneurship Capstone
-_**[MagFO](/pdf/Beerliminator.pdf)**_
+_**[MagFO](/pdf/Alcohol Elimination Service Final.pdf)**_
 
-Our team worked with representatives from MagFO to find a market for their Magnesium Forward Osmosis System. Our research directed us to the dealcholization of beer. This is a rapidly growing market and the process of the MagFO system would be most beneficial to all the brewers who are attempting to create a new product for non-alcholic drinkers. 
+Our team worked with representatives from MagFO to find a market for their Magnesium Forward Osmosis System, and innovate the product to be successful in that market. Our months of research and failure (waste water treatment, hemodialysis, etc.) throughout the year finally led us to the dealcholization of beer. This is a rapidly growing market and the process of the MagFO system would be most beneficial to all the brewers who are attempting to create a new product for non-alcholic drinkers. 
 
-_**[
+## Homefield Advantage - Entrepreneurship Program for Athletes During COVID Isolation
+
+_**[Sustainable Sustainability](/pdf/Sustainable Sustainability.pdf)**_
 
 ---
 
 ## Career Objectives
 
-Improving systems and innovating new ways to solve problems is the forefront of what I want to accomplish 
-in my future. Being at EY is a great step towards this, and I hope to eventually make an impact. 
+Enhancing systems and creating new approaches to problem-solving with hard-working teams add up to the central focus of my aspirations for the future. The demanding and rewarding experience of accomplishing a multidisciplinary education encompassing engineering, computer science, and business at Lehigh University has increased my desire to pursue a career that includes all three.
 
 ---
 
