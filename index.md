@@ -45,7 +45,9 @@ _**[MagFO](/pdf/Alcohol Elimination Service Final.pdf)**_
 
 Our team worked with representatives from MagFO to find a market for their Magnesium Forward Osmosis System, and innovate the product to be successful in that market. Our months of research and failure (waste water treatment, hemodialysis, etc.) throughout the year finally led us to the dealcholization of beer. This is a rapidly growing market and the process of the MagFO system would be most beneficial to all the brewers who are attempting to create a new product for non-alcholic drinkers. 
 
-## Homefield Advantage - Entrepreneurship Program for Athletes During COVID Isolation
+## Homefield Advantage
+
+Entrepreneurship Program for Athletes During COVID Isolation
 
 _**[Sustainable Sustainability](/pdf/Sustainable Sustainability.pdf)**_
 
