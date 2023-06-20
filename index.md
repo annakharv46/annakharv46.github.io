@@ -8,6 +8,8 @@ Hello! My name is Anna Harvey and I am a Financial Engineering Major (Fintech Mi
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
+_**[Regression Practice](/Regressions.ipynb)**_
+
 _**[10-Ks' Sentiment Score and How They Relate to Stock Fluctuation](/Report/Report.md/)**_
 
 Are stocks from the S&P 500 dependent on 10k sentiment? Do certain categorical words have more impact?
@@ -21,13 +23,13 @@ sentiment scores. Click on the link above to see the detailed report to learn mo
 
 ---
 
-_**[Regression Practice](/Regressions.ipynb)**_
-
 ## FIN 377 Final Project
 
 _**[There Is Such A Thing As Free Lunch](https://github.com/tobeybill/TISATAFL)**_
 
 This team project analyzes the relationship between firm performance and CEO/Board of Director Compensation. Our analysis includes companies from the S&P 500 separated into size categories based on market value. For each firm, we ran a Ridge regression to predict firm CEO/BOD over/under compensation percentages. After achieving this metric, we calculated a measure of firm performance using the coefficients of a linear regression as weights for each relevant variable. Once both over/under compensation and firm performance had been calculated for the firms in question, the two were correlated, plotted on a scatterplot, and then average firm performance was listed in comparison with the four cases of over/undercompensation.
+
+---
 
 Senior FinTech Capstone
 ---
@@ -45,6 +47,7 @@ _**[MagFO](/pdf/Alcohol Elimination Service Final.pdf)**_
 
 Our team worked with representatives from MagFO to find a market for their Magnesium Forward Osmosis System, and innovate the product to be successful in that market. Our months of research and failure (waste water treatment, hemodialysis, etc.) throughout the year finally led us to the dealcholization of beer. This is a rapidly growing market and the process of the MagFO system would be most beneficial to all the brewers who are attempting to create a new product for non-alcholic drinkers. 
 
+---
 ## Homefield Advantage
 
 Entrepreneurship Program for Athletes During COVID Isolation
