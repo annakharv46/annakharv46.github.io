@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Anna Harvey and I am a Financial Engineering Major (Fintech Minor) at Lehigh University in the [IBE Honors Program](https://ibe.lehigh.edu/about). I played four years of D1 basketball and one year of D1 Tennis. I am very excited to be joining EY full-time in NYC on the FSO - Tech Consulting - Technology Solutions Delivery Team. This page contains all the team projects and findings during my time at Lehigh University. Go Mountain Hawks!
+Hello! My name is Anna Harvey and I am a Financial Engineering Major (Fintech Minor) at Lehigh University in the [IBE Honors Program](https://ibe.lehigh.edu/about). I played four years of D1 basketball and one year of D1 Tennis. This page contains all the team projects and findings during my time at Lehigh University. Go Mountain Hawks!
 
 ---
 
